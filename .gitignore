@@ -1,4 +1,7 @@
 .idea/
 *.iml
-venv/
+myenv/
+__pycache__
+*.db
+migrations
 
